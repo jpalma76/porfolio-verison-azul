@@ -22,5 +22,6 @@ para descargar el proyecto y comenzar a modificarlo y ver como funciona Astro, s
 
 ...y esta es mi última modificación
 
+![Captura desde 2024-07-16 16-27-32](https://github.com/user-attachments/assets/220b14e2-2d42-4f5e-9291-75304cb839e3)
 
 Gracias por vistar mi repositorio.
