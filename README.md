@@ -18,9 +18,9 @@ para descargar el proyecto y comenzar a modificarlo y ver como funciona Astro, s
 ### para correr el programa
 5.- pnpm run dev
 
-![1720897510349](https://github.com/user-attachments/assets/b880b104-bd7e-4a74-ba66-a017fed5a3fe)
+![Captura desde 2024-07-13 15-02-16](https://github.com/user-attachments/assets/404f811a-629d-4037-bdc3-54c6c9e7c02c)
 
-###... y así es como quedo el rendimiento al 100%
-![image](https://github.com/user-attachments/assets/fca4b6f0-6290-4cbe-bc5b-dafd4794f0ce)
+...y esta es mi última modificación
+
 
 Gracias por vistar mi repositorio.
