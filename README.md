@@ -5,7 +5,7 @@ para descargar el proyecto puedes hacerlo con el administrador de paquetes de tu
 
 https://www.youtube.com/watch?v=HEMvsJTBweY&t=2269s
 
-para descargar el proyecto y comenzar a modificarlo y ver como funciona Astro, sigue los siguientes pasoso:
+para descargar el proyecto y comenzar a modificarlo y ver como funciona Astro, sigue los siguientes pasos:
 ### Descarga el proyecto
 1.- git clone https://github.com/jpalma76/porfolio-version-azul
 ### Ingresa a la carpeta del proyecto
